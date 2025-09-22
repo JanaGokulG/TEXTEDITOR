@@ -53,10 +53,3 @@ An **Advanced Text Editor** built using Python and Tkinter with features like sp
 - Tkinter (usually comes pre-installed with Python)  
 
 ---
-
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/advanced-text-editor.git
