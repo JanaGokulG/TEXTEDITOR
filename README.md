@@ -53,3 +53,6 @@ An **Advanced Text Editor** built using Python and Tkinter with features like sp
 - Tkinter (usually comes pre-installed with Python)  
 
 ---
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
