@@ -54,5 +54,4 @@ An **Advanced Text Editor** built using Python and Tkinter with features like sp
 
 ---
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 
